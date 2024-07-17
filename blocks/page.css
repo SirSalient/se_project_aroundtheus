@@ -1,0 +1,41 @@
+.page{
+ background-color: black;
+ color: #ffff;
+ 
+}
+
+
+.page__section{
+ max-width: 880px;
+ width:100%;
+ position: relative;
+ margin:0 auto;
+ border: 1px #545454;
+ 
+ 
+}
+
+.page__content{
+ display: flex;
+ flex-direction: column;
+ min-height:100vh;
+ padding:0 20px ;
+}
+
+@media screen and (max-width:880px){
+ .page__content{
+  max-width: calc(100% - 40px);
+  margin: 0 20px;
+
+ }
+}
+
+
+@media screen and (max-width:551px){
+ .page__logo{
+  max-width:126px;
+  height: 1.2;
+  padding: 0;
+
+ }
+}
