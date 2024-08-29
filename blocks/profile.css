@@ -19,7 +19,7 @@ grid-template-areas:
 "title button" 
 "description description";
 grid-template-columns: minmax(auto, 373px) auto;
-
+gap: 20px;
 }
 
 
@@ -30,7 +30,7 @@ grid-template-columns: minmax(auto, 373px) auto;
  font-weight: 500;
  line-height:48px;
  margin-bottom: 0;
-
+ text-overflow: ellipsis;
 }
 
 .profile__description{ 
