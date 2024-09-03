@@ -31,10 +31,10 @@ Web page was design using Grid
   
 [User's image](https://www.figma.com/design/ii4xxsJ0ghevUOcssTlHZv/Sprint-3%3A-Around-the-US?node-id=6432-197&t=giuqKh9vI5SxNaLP-4)  
 
-[Add/Upload](https://www.figma.com/design/ii4xxsJ0ghevUOcssTlHZv/Sprint-3%3A-Around-the-US?node-id=6432-147&t=giuqKh9vI5SxNaLP-4)  
+[Add/Upload button](https://www.figma.com/design/ii4xxsJ0ghevUOcssTlHZv/Sprint-3%3A-Around-the-US?node-id=6432-147&t=giuqKh9vI5SxNaLP-4)  
 
-[Edit profile](https://www.figma.com/design/ii4xxsJ0ghevUOcssTlHZv/Sprint-3%3A-Around-the-US?node-id=6432-147&t=giuqKh9vI5SxNaLP-4)  
+[Edit profile button](https://www.figma.com/design/ii4xxsJ0ghevUOcssTlHZv/Sprint-3%3A-Around-the-US?node-id=6432-147&t=giuqKh9vI5SxNaLP-4)  
 
 
-[Like/Dislike](https://www.figma.com/design/ii4xxsJ0ghevUOcssTlHZv/Sprint-3%3A-Around-the-US?node-id=6432-147&t=giuqKh9vI5SxNaLP-4) 
+[Like/Dislike button](https://www.figma.com/design/ii4xxsJ0ghevUOcssTlHZv/Sprint-3%3A-Around-the-US?node-id=6432-147&t=giuqKh9vI5SxNaLP-4) 
 
