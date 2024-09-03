@@ -2,11 +2,11 @@
 
 ### Overview  
 
-**The project's name**
+
 'AroundtheUS'
 
 
-**A description of the project and its functionality**
+
 This project was created using responsive design to great user experience across various screen sizes.
 User will have the ability to upload quality photos , edit thier profile 
 share thier work and interact with thier target audience via social media (Instagram,Fackbook and X).
@@ -14,7 +14,7 @@ share thier work and interact with thier target audience via social media (Insta
 
 
 
-**A description of technologies and techniques used**
+
 Ths product was created using Html,CSS,Figma and Tinypng
 The @media rule provide smooth responsive design.
 Web page was design using Grid
