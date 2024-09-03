@@ -2,13 +2,21 @@
 
 ### Overview  
 
-* Intro  
-* Figma  
-* Images  
-  
-**Intro**
-  
-This project is made so all the elements are displayed correctly on popular screen sizes. We recommend investing more time in completing this project, since it's more difficult than previous ones.  
+**The project's name**
+'AroundtheUS'
+
+
+**A description of the project and its functionality**
+This project is made so all the elements are displayed correctly on various screen sizes.
+Smooth responsive design  
+User will have the ability to upload quality photo
+share thier work and interact with thier target audience via social media (Instagram,Fackbook and X).
+
+
+**A description of technologies and techniques used**
+Ths product was created using Html,CSS,Figma and Tinypng
+The @media rule provide smooth responsive design.
+Web page was design using Grid
   
 **Figma**  
   
@@ -20,6 +28,8 @@ This project is made so all the elements are displayed correctly on popular scre
   
 **Images**  
   
-The way you'll do this at work is by exporting images directly from Figma — we recommend doing that to practice more. Don't forget to optimize them [here](https://tinypng.com/), so your project loads faster. 
-  
-Good luck and have fun!
+[User's image](./images/bald-mountains.jpg)  
+
+[Add/Upload](./images/add-button.svg)  
+
+[Edit profile](./images/edit-button.svg)  
