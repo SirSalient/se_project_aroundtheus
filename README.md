@@ -7,10 +7,11 @@
 
 
 **A description of the project and its functionality**
-This project is made so all the elements are displayed correctly on various screen sizes.
-Smooth responsive design  
-User will have the ability to upload quality photo
+This project was created using responsive design to great user experience across various screen sizes.
+User will have the ability to upload quality photos , edit thier profile 
 share thier work and interact with thier target audience via social media (Instagram,Fackbook and X).
+
+
 
 
 **A description of technologies and techniques used**
@@ -28,8 +29,12 @@ Web page was design using Grid
   
 **Images**  
   
-[User's image](./images/bald-mountains.jpg)  
+[User's image](https://www.figma.com/design/ii4xxsJ0ghevUOcssTlHZv/Sprint-3%3A-Around-the-US?node-id=6432-197&t=giuqKh9vI5SxNaLP-4)  
 
-[Add/Upload](./images/add-button.svg)  
+[Add/Upload](https://www.figma.com/design/ii4xxsJ0ghevUOcssTlHZv/Sprint-3%3A-Around-the-US?node-id=6432-147&t=giuqKh9vI5SxNaLP-4)  
 
-[Edit profile](./images/edit-button.svg)  
+[Edit profile](https://www.figma.com/design/ii4xxsJ0ghevUOcssTlHZv/Sprint-3%3A-Around-the-US?node-id=6432-147&t=giuqKh9vI5SxNaLP-4)  
+
+
+[Like/Dislike](https://www.figma.com/design/ii4xxsJ0ghevUOcssTlHZv/Sprint-3%3A-Around-the-US?node-id=6432-147&t=giuqKh9vI5SxNaLP-4) 
+
